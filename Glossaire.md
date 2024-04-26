@@ -1,6 +1,6 @@
 # C#
 ## Variables
-boolean :
+boolean : vrai ou faux
 integer :
 float :
 double :
