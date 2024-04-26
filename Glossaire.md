@@ -1,7 +1,7 @@
 # C#
 ## Variables
-boolean :
-integer :
+boolean : Une variable de type booléen qui ne peut prendre que deux valeurs : True (vrai) ou False (faux). Utilisée pour les conditions ou les boucles qui nécessitent une vérification de vérité.
+integer : Une variable de type entier qui contient des nombres sans partie décimale. Utilisée dans les calculs, les boucles etc.
 float :
 double :
 string :
