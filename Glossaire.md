@@ -54,8 +54,8 @@ region :
 using : 
 
 ## Accessibility
-public : 
-private : 
+public : definit un element comme etant accessible a tous les fichiers externes
+private : definit un element comme etant seulement accessible dans le fichier ou il est definit.
 protected :
 static : 
 Misc
