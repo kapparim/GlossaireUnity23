@@ -274,11 +274,11 @@ Layer Default State :
 Any State :
 
 ## Audio
-AudioSource : 
-	PlayOnAwake :
-	Loop : 
-	Volume :
-	Pitch : 
+AudioSource : Composant d'un objet pour gérer un son
+	PlayOnAwake : Le son sera joué à la création de l'objet
+	Loop : Le son sera joué en boucle
+	Volume : Le volume du son
+	Pitch : Hauteur du son
 AudioMixer : 
 AudioListener : 
 
