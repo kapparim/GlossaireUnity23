@@ -13,7 +13,7 @@ enum :
 > : 
 >= : 
 == : 
-!= : 
+!= : est different de
 <= :
 < : 
 && : 
