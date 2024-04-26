@@ -5,7 +5,7 @@ myResults = otherGameObject.GetComponent<ComponentType>()
 ```
 
 
-GetComponentInChildren() : On utilise pour recuperer un composants des enfants d'un GameObject.
+GetComponentInChildren() : On l'utilise pour recuperer un composant dans les enfants d'un GameObject.
 
 ```
 myResults = otherGameObject.GetComponentInChildren<ComponentType>()
